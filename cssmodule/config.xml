@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cssmodule</name>
+	<displayName><![CDATA[CSS Editing Module]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[Easily edit your shops CSS. From dh42 PrestaShop Certified Partner and PrestaShop support Experts.]]></description>
+	<author><![CDATA[dh42]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
